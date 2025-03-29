@@ -60,6 +60,7 @@ Spyware/
 git clone https://github.com/Enstso/Spyware.git
 cd Spyware
 ```
+The 'Spyware' folder in the project contains a version with limited functionalities.
 
 ### 2. Generate the Executable
 
